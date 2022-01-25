@@ -1,0 +1,48 @@
+body{
+    background-color:cornsilk;
+}
+.whole{
+    margin: auto;
+    text-align: center;
+    margin-top: 200px;
+    font-size: x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50%;
+    padding: 20px;
+}
+.dec{
+    padding: 2px 8px 2px 8px;
+    font-size: x-large;
+    border: 2px solid grey;
+    background: none;
+    border-radius: 5px;
+    margin: 2px;
+}
+.inc{
+    padding: 2px 8px 2px 8px;
+    font-size: x-large;
+    border: 2px solid grey;
+    background: none;
+    border-radius: 5px;
+    margin: 2px;
+}
+.reset{
+    padding: 2px 8px 2px 8px;
+    font-size: x-large;
+    border: 2px solid grey;
+    background: none;
+    border-radius: 5px;
+    margin: 2px;
+}
+.dec:hover{
+    background-color: black;
+    color: white;
+}
+.inc:hover{
+    background-color: black;
+    color: white;
+}
+.reset:hover{
+    background-color: black;
+    color: white;
+}
